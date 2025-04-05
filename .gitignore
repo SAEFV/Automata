@@ -1,0 +1,19 @@
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Editors
+*.swp
+*~
+.idea/
+.vscode/
+
+# Build/output
+*.pdf
+*.odt
+*.docx
+build/
+output/
+
+# Logs
+*.log
