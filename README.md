@@ -1,3 +1,5 @@
+# Project Automata: Puppet, Kubernetes & Docker Setup
+
 ## Introduction
 This document details my project to explore and document the setup of Puppet, Kubernetes, and Docker. I will use VMware to create virtual machines, with one acting as the Puppet master and two as nodes. My operating system of choice is Ubuntu Server.
 The goal of this project is to learn how these technologies interact, automate system configurations with Puppet, manage containers with Docker, and orchestrate them using Kubernetes.
